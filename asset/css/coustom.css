@@ -1,0 +1,14 @@
+.mtb-30{
+    margin:30px;
+    text-align:left !important;
+}
+.content1{
+    background-image:url("/asset/image/mountain.png");
+    background-repeat:no-repeat;
+    background-size: 100% auto;
+    background-position: 0 100%;
+}
+
+.content2{
+    background-image:url("/asset/image/media/bbf265420b21bb0438f7ee88e8bd2917.m4v");
+}
